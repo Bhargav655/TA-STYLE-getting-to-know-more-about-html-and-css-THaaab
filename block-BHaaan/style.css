@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    background-color: palevioletred;
+    font-size: 30px;
+}
+footer{
+    background-color: lightblue;
+    text-align: center;
+}
+p{
+    font-size: 34px;
+}
+h1{
+    font-size: 44px;
+}
+h2{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+img{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h1{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+a{
+    margin-left: 200px;
+    margin-right: 200px;
+}
